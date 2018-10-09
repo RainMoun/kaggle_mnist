@@ -144,5 +144,3 @@ for test_image in batchs:
         f.write(str(i) + ',' +str(label) + '\n')
         i += 1
 f.close()
-
-
